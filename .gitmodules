@@ -1,0 +1,6 @@
+[submodule "ToDo-Backend-Node.js"]
+	path = ToDo-Backend-Node.js
+	url = https://github.com/Saima422/ToDo-Backend-Node.js
+[submodule "Todo-Frontend-Integrated-with-Backend"]
+	path = Todo-Frontend-Integrated-with-Backend
+	url = https://github.com/Saima422/Todo-Frontend-Integrated-with-Backend
